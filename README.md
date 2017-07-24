@@ -1,2 +1,2 @@
 # autohotkeyscripts
-Various auto hotkey scripts
+Various auto hotkey scripts for different things.
