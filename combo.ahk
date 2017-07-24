@@ -3,7 +3,7 @@
 #MaxHotkeysPerInterval 100
 
 ; ========================================================================
-; Sprint assist for shitty games without run toggle
+; Sprint assist for games without run toggle
 ; https://autohotkey.com/boards/viewtopic.php?p=95156#p95156
 ;
 ; definitive auto fire thread
